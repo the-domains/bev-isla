@@ -1,14 +1,15 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Toronto native Beverly Isla delivers a solid and multi-faceted background in communications to the social causes that have inspired her support. After honing her skills in public relations, public speaking, holistic health, television/video production, project management and writing, Isla decided that it was time to heed a holistic call and focus on topics that are close to her heart: wellbeing, health, personal development, animal welfare, and sustainable and green living.'
-datePublished: '2016-05-10T00:44:50.605Z'
-dateModified: '2016-05-10T00:44:37.380Z'
+datePublished: '2016-05-10T01:24:47.802Z'
+dateModified: '2016-05-10T01:24:37.522Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-10-toronto-native-beverly-isla-delivers-a-solid-and-multi-facet.md
 authors: []
 publisher:
   name: null
@@ -16,9 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-10-toronto-native-beverly-isla-delivers-a-solid-and-multi-facet.md
 url: toronto-native-beverly-isla-delivers-a-solid-and-multi-facet/index.html
-_type: Article
+_type: WebPage
 
 ---
 **ABOUT**
