@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Bev Isla]]></title>
         <description><![CDATA[Bev Isla]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bev-isla/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 22:39:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 May 2016 22:39:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bev-isla/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Autism Can Be Treated]]></title>
+            <description><![CDATA[<article><h1>Autism Can Be Treated</h1><p>Lisa DeCandia talks with Beverly Isla about how autism can be managed and controlled with alternative measures.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68c8665b25a9e718811656ec4c355f650832c1e7.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Zzw4wHv9wFU</link>
+            <guid isPermaLink="false">6e0b1af1-a5f7-40fd-b850-0c6af782bc8c</guid>
+            <pubDate>Sun, 15 May 2016 22:39:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can Alternative Medicine Treat Auto-Immune Conditions?]]></title>
             <description><![CDATA[<article><h1>Can Alternative Medicine Treat Auto-Immune Conditions?</h1><p>Dr Gary Hardy, naturopath and homeopath, has treated many auto-immune diseases. He talks with Beverly Isla on conditions like MS, Crohn's disease, Arthritis, etc and how it can be treated through a variety of approaches.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1218cfc8acf291b9f6879f67969cc5060e35492a.jpg"></article>]]></description>
