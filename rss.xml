@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bev Isla]]></title>
+        <description><![CDATA[Bev Isla]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 May 2016 22:39:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can Alternative Medicine Treat Auto-Immune Conditions?]]></title>
+            <description><![CDATA[<article><h1>Can Alternative Medicine Treat Auto-Immune Conditions?</h1><p>Dr Gary Hardy, naturopath and homeopath, has treated many auto-immune diseases. He talks with Beverly Isla on conditions like MS, Crohn's disease, Arthritis, etc and how it can be treated through a variety of approaches.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1218cfc8acf291b9f6879f67969cc5060e35492a.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=WS3R8KDhv_o</link>
+            <guid isPermaLink="false">057ac097-941f-407c-866b-4804bad85609</guid>
+            <pubDate>Sun, 15 May 2016 22:39:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
