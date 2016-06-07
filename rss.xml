@@ -4,8 +4,15 @@
         <description><![CDATA[Bev Isla]]></description>
         <link>https://thegrid.ai/bev-isla/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 22:55:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 22:57:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bev-isla/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6d9a79b-f604-44fb-8638-9fbebf7709ad.jpg">]]></description>
+            <link>https://thegrid.ai/bev-isla/what-is-the-difference/index.html</link>
+            <guid isPermaLink="false">30da88eb-ffe3-4dbf-adda-b046f3fb92ab</guid>
+            <pubDate>Tue, 07 Jun 2016 22:57:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Butterfly]]></title>
             <description><![CDATA[<article><h1>Butterfly</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/364780aa-3265-44b2-823d-0ee15371448c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bev-isla/living-a-simple-life-sometimes-primitive-simplicity-can-out/index.html</link>
             <guid isPermaLink="false">8d9b46a8-d303-49a1-a540-e9a4b4186f3b</guid>
             <pubDate>Tue, 07 Jun 2016 01:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Island Hopping In The Philippines: Where Seaworld And People Come Together]]></title>
-            <description><![CDATA[<article><h1>Island Hopping In The Philippines: Where Seaworld And People Come Together</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7fb6989-4a13-4b73-94f9-89fc1a89e262.jpg"></article>]]></description>
-            <link>https://thegrid.ai/bev-isla/island-hopping-in-the-philippines-where-seaworld-and-people/index.html</link>
-            <guid isPermaLink="false">dc7e056c-bd17-4838-8ec7-b2ccf0a66c36</guid>
-            <pubDate>Tue, 07 Jun 2016 01:20:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
