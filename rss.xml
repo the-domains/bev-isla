@@ -4,8 +4,15 @@
         <description><![CDATA[Bev Isla]]></description>
         <link>https://thegrid.ai/bev-isla/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 22:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 22:52:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bev-isla/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Universe]]></title>
+            <description><![CDATA[<article><h1>The Universe</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8182515-bf91-41d9-a8ec-4f8642fce65e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bev-isla/the-universe/index.html</link>
+            <guid isPermaLink="false">5ec539ca-57cc-4832-aeef-796967c702ac</guid>
+            <pubDate>Tue, 07 Jun 2016 22:52:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The New Earth]]></title>
             <description><![CDATA[<article><h1>The New Earth</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6328cc92-f893-47d1-99a0-f4afb8382a9a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bev-isla/the-depth-of-the-human-canine-bond/index.html</link>
             <guid isPermaLink="false">4968661f-7fae-48e3-bb24-bed286bea529</guid>
             <pubDate>Tue, 07 Jun 2016 01:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Preparing To Be A Foster Parent So You Can Set Your Foster Dog Up For Success]]></title>
-            <description><![CDATA[<article><h1>Preparing To Be A Foster Parent So You Can Set Your Foster Dog Up For Success</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/616e3272-07b5-4600-b22d-fdb56a7a381a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/bev-isla/preparing-to-be-a-foster-parent-so-you-can-set-your-foster-d/index.html</link>
-            <guid isPermaLink="false">d07186bc-98c8-4e2b-8878-f938bd4a83d9</guid>
-            <pubDate>Tue, 07 Jun 2016 01:03:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
