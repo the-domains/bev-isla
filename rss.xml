@@ -4,8 +4,15 @@
         <description><![CDATA[Bev Isla]]></description>
         <link>https://thegrid.ai/bev-isla/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 22:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 22:54:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bev-isla/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Twin Flames]]></title>
+            <description><![CDATA[<article><h1>Twin Flames</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c430c376-b25d-409f-a110-5cc0fffea761.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bev-isla/twin-flames/index.html</link>
+            <guid isPermaLink="false">7557ca36-20fd-4f61-a6cf-11840308e250</guid>
+            <pubDate>Tue, 07 Jun 2016 22:54:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Universe]]></title>
             <description><![CDATA[<article><h1>The Universe</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8182515-bf91-41d9-a8ec-4f8642fce65e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bev-isla/farming-in-the-philippines-way-of-life/index.html</link>
             <guid isPermaLink="false">2d234059-f00c-4299-8126-f08fe2480aec</guid>
             <pubDate>Tue, 07 Jun 2016 01:15:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca3bbbbd-4d8f-497f-aba0-c038985d115c.jpg">]]></description>
-            <link>https://thegrid.ai/bev-isla/the-depth-of-the-human-canine-bond/index.html</link>
-            <guid isPermaLink="false">4968661f-7fae-48e3-bb24-bed286bea529</guid>
-            <pubDate>Tue, 07 Jun 2016 01:08:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
