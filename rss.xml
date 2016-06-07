@@ -4,8 +4,15 @@
         <description><![CDATA[Bev Isla]]></description>
         <link>https://thegrid.ai/bev-isla/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 01:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 01:15:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bev-isla/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Farming In The Philippines: Way Of Life</p>]]></description>
+            <link>https://thegrid.ai/bev-isla/farming-in-the-philippines-way-of-life/index.html</link>
+            <guid isPermaLink="false">2d234059-f00c-4299-8126-f08fe2480aec</guid>
+            <pubDate>Tue, 07 Jun 2016 01:15:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca3bbbbd-4d8f-497f-aba0-c038985d115c.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=U7b987nzNPM</link>
             <guid isPermaLink="false">a9ceb962-a59c-4343-a2a0-5d2742f6b3f3</guid>
             <pubDate>Sun, 15 May 2016 22:40:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Part 3 with expert Tricia Casper: Is Your Dog Overcome With Fear, Anxiety, Isolation Distress?]]></title>
-            <description><![CDATA[<article><h1>Part 3 with expert Tricia Casper: Is Your Dog Overcome With Fear, Anxiety, Isolation Distress?</h1><p>You bring a rescue dog home (or any dog) and you find out it's not quite the happy dog you've hope for. It fears riding in the car, meeting other animals, can't stand the groomer...what do you do? Dog modification expert Tricia Casper (www.triciacasper.com) gives her top tips in this segment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92dc2c9338950a269c7293db80ffb03e30e7999f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=E1aAFdh3inw</link>
-            <guid isPermaLink="false">0d4b958d-9d86-4d80-99f8-aee2990caa1e</guid>
-            <pubDate>Sun, 15 May 2016 22:40:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
