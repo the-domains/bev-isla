@@ -4,8 +4,15 @@
         <description><![CDATA[Bev Isla]]></description>
         <link>https://thegrid.ai/bev-isla/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 22:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 22:49:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bev-isla/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The New Earth]]></title>
+            <description><![CDATA[<article><h1>The New Earth</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6328cc92-f893-47d1-99a0-f4afb8382a9a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bev-isla/the-new-earth/index.html</link>
+            <guid isPermaLink="false">1b4a4886-5f36-4492-acab-1f0195cdcd10</guid>
+            <pubDate>Tue, 07 Jun 2016 22:48:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tapuakan River: Finding Serenity]]></title>
             <description><![CDATA[<article><h1>Tapuakan River: Finding Serenity</h1><p>Some travelers will fly to tourist-dense destinations for relaxation but what about finding solitude in remote nature? </p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bev-isla/preparing-to-be-a-foster-parent-so-you-can-set-your-foster-d/index.html</link>
             <guid isPermaLink="false">d07186bc-98c8-4e2b-8878-f938bd4a83d9</guid>
             <pubDate>Tue, 07 Jun 2016 01:03:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BEVERLY ISLA]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f8e2cae-31a7-470c-97a6-f455c1b07c32.jpg">]]></description>
-            <link>https://thegrid.ai/bev-isla/beverly-isla/index.html</link>
-            <guid isPermaLink="false">af01b579-12f9-43c2-b98c-3581c7b31851</guid>
-            <pubDate>Fri, 27 May 2016 01:23:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
