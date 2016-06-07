@@ -4,8 +4,15 @@
         <description><![CDATA[Bev Isla]]></description>
         <link>https://thegrid.ai/bev-isla/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 22:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 22:55:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bev-isla/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Butterfly]]></title>
+            <description><![CDATA[<article><h1>Butterfly</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/364780aa-3265-44b2-823d-0ee15371448c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bev-isla/butterfly/index.html</link>
+            <guid isPermaLink="false">bc09f151-09c6-46ca-8797-ed1129f2df81</guid>
+            <pubDate>Tue, 07 Jun 2016 22:55:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Twin Flames]]></title>
             <description><![CDATA[<article><h1>Twin Flames</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c430c376-b25d-409f-a110-5cc0fffea761.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bev-isla/island-hopping-in-the-philippines-where-seaworld-and-people/index.html</link>
             <guid isPermaLink="false">dc7e056c-bd17-4838-8ec7-b2ccf0a66c36</guid>
             <pubDate>Tue, 07 Jun 2016 01:20:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Farming In The Philippines: Way Of Life</p>]]></description>
-            <link>https://thegrid.ai/bev-isla/farming-in-the-philippines-way-of-life/index.html</link>
-            <guid isPermaLink="false">2d234059-f00c-4299-8126-f08fe2480aec</guid>
-            <pubDate>Tue, 07 Jun 2016 01:15:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
