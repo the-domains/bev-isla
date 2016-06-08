@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: BEVERLY ISLA
-datePublished: '2016-05-27T01:23:22.353Z'
-dateModified: '2016-05-27T01:21:15.044Z'
+datePublished: '2016-06-08T20:51:39.742Z'
+dateModified: '2016-06-07T01:35:54.593Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-27-beverly-isla.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-27-beverly-isla.md
 url: beverly-isla/index.html
 _type: Article
 
